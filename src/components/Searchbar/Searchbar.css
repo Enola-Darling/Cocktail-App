@@ -1,0 +1,10 @@
+
+.SearchBar input[type="submit"] {
+    padding: 10px 20px;
+    background-color: #f57c00;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin-left: 20px;
+    border-radius: 5px;
+}
