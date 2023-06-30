@@ -1,6 +1,10 @@
 .ProductList {
     padding: 0 30px;
   }
+
+ .ProductList__list::-webkit-scrollbar{
+    display: none;
+  }
   
   .ProductList__list {
     display: flex;
